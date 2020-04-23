@@ -1,6 +1,6 @@
 ﻿using TradingEngine.Infrastructure;
 
-namespace TradingEngine.Domains
+namespace TradingEngine.Domains.Currency
 {
     public class Currency : Entity
     {

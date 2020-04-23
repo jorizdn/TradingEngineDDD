@@ -1,6 +1,7 @@
 ﻿using FluentAssertions;
 using NUnit.Framework;
 using TradingEngine.Domains;
+using TradingEngine.Domains.Currency;
 
 namespace UnitTests
 {

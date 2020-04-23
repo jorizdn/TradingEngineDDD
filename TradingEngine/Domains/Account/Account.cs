@@ -26,7 +26,7 @@ namespace TradingEngine.Domains.Entities
         public User User { get; private set; }
 
         [ForeignKey("CurrencyId")]
-        public Currency Currency { get; private set; }
+        public Currency.Currency Currency { get; private set; }
 
 
         public void Store(int amount)

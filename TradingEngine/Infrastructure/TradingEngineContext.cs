@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using TradingEngine.Domains;
+using TradingEngine.Domains.Currency;
 using TradingEngine.Domains.Entities;
 
 namespace TradingEngine.Infrastructure
