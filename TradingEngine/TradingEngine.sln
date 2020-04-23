@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradingEngine", "TradingEngine.csproj", "{23D7F24B-C55D-4EA1-9D4A-15E9AB09764D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "..\UnitTests\UnitTests.csproj", "{5876B51A-8B32-451A-81D9-88729ED32750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23D7F24B-C55D-4EA1-9D4A-15E9AB09764D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D7F24B-C55D-4EA1-9D4A-15E9AB09764D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D7F24B-C55D-4EA1-9D4A-15E9AB09764D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D7F24B-C55D-4EA1-9D4A-15E9AB09764D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5876B51A-8B32-451A-81D9-88729ED32750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5876B51A-8B32-451A-81D9-88729ED32750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5876B51A-8B32-451A-81D9-88729ED32750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5876B51A-8B32-451A-81D9-88729ED32750}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3C3D2A6-6B19-4C77-9FFD-CDDACE98E50A}
+	EndGlobalSection
+EndGlobal
